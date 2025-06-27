@@ -5,7 +5,7 @@ A full-stack Weather App that allows users to get real-time weather information 
 This project is split into two repositories:
 
 - 🔗 [Frontend Repository](https://github.com/tomislav98/weather_app_frontend_flutter)
-- 🔗 [Backend Repository](https://github.com/your-username/weather-app-backend)
+- 🔗 [Backend Repository](https://github.com/tomislav98/weather_app_backend_fastAPI)
 
 ---
 
