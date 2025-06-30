@@ -1,4 +1,4 @@
-# ![Logo](images/logo.png) My Awesome Project
+# ![Logo](logo.png) My Awesome Project
 
 A full-stack Weather App that allows users to get real-time weather information based on their location or search input.
 
