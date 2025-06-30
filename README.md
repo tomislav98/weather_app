@@ -1,5 +1,10 @@
-#  <img src="logo.png" alt="Logo" width="50" style="vertical-align: middle;" /> My Project Title
+<div align="center">
 
+
+
+# <img src="logo.png" alt="Logo" width="500" height="500" />
+
+</div>
 
 A full-stack Weather App that allows users to get real-time weather information based on their location or search input.
 
