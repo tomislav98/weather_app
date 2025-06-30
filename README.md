@@ -1,4 +1,5 @@
-# ![Logo](logo.png) My Awesome Project
+#  <img src="logo.png" alt="Logo" width="50" style="vertical-align: middle;" /> My Project Title
+
 
 A full-stack Weather App that allows users to get real-time weather information based on their location or search input.
 
